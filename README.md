@@ -28,6 +28,8 @@ Raport z wykonanych testów.
 - GitHub
 - Markdown
 - QA Manual Testing
+- Jira
+- SQL
 
 ## Umiejętności
 
@@ -59,6 +61,10 @@ Raport z wykonanych testów.
 
 ![Jira List View](./screenshots/jira_list_view.png)
 
+### Jira - Kanban Board
+
+![Jira Kanban](./screenshots/jira_kanban_board.png)
+
 ## Wyniki testów
 
 ### Podsumowanie
@@ -74,11 +80,9 @@ Raport z wykonanych testów.
 | BUG01 | Możliwość wysłania pustego formularza | Medium |
 | BUG02 | Możliwość rezerwacji wizyty bez wyboru daty | Medium |
 | BUG03 | Anulowanie wszystkich wizyt zamiast wybranej wizyty | Krytyczny |
-
-### Jira - Kanban Board
-
-![Jira Kanban](./screenshots/jira_kanban_board.png)
-
 ## Autor
 
 Paula Antonowicz-Bielak
+## Kontakt
+
+LinkedIn: https://www.linkedin.com/in/paula-antonowicz-72b0b016b/
