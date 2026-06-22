@@ -37,20 +37,21 @@ Paula Antonowicz-Bielak
 
 ### Repository Structure
 
-![Repository Structure](screenshots/01_repozytorium.png)
+![Repository Structure](./screenshots/repository_structure.png)
 
 ### Test Cases
 
-![Test Cases](screenshots/02_test_case.png)
+![Test Cases](./screenshots/test_cases.png)
 
 ### Bug Reports
 
-![Bug Reports](screenshots/03_bug_report.png)
+![Bug Reports](./screenshots/bug_reports.png)
 
 ### Jira - List View
 
-![Jira List](screenshots/04_jira_lista.png)
+![Jira List View](./screenshots/jira_list_view.png)
+
 
 ### Jira - Kanban Board
 
-![Jira Kanban](screenshots/05_jira_kanban.png)
+![Jira Kanban](./screenshots/jira_kanban_board.png)
