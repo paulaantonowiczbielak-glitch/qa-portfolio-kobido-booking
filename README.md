@@ -29,6 +29,18 @@ Raport z wykonanych testów.
 - Markdown
 - QA Manual Testing
 
+## Umiejętności
+
+- Analiza wymagań funkcjonalnych
+- Tworzenie User Stories
+- Projektowanie przypadków testowych
+- Raportowanie błędów (Bug Reports)
+- Testowanie manualne aplikacji webowych
+- Dokumentowanie wyników testów
+- Zarządzanie zadaniami w Jira
+- Praca z GitHub
+- Tworzenie dokumentacji w Markdown
+
 ## Autor
 
 Paula Antonowicz-Bielak
@@ -51,6 +63,21 @@ Paula Antonowicz-Bielak
 
 ![Jira List View](./screenshots/jira_list_view.png)
 
+## Wyniki testów
+
+### Podsumowanie
+
+- Liczba przygotowanych przypadków testowych: 5
+- Liczba wykonanych testów: 5
+- Liczba wykrytych błędów: 3
+
+### Zidentyfikowane błędy
+
+| ID | Opis | Priorytet |
+|----|-------|-----------|
+| BUG01 | Możliwość wysłania pustego formularza | Medium |
+| BUG02 | Możliwość rezerwacji wizyty bez wyboru daty | Medium |
+| BUG03 | Anulowanie wszystkich wizyt zamiast wybranej wizyty | Krytyczny |
 
 ### Jira - Kanban Board
 
