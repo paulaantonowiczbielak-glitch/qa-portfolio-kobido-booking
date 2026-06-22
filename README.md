@@ -32,3 +32,25 @@ Raport z wykonanych testów.
 ## Autor
 
 Paula Antonowicz-Bielak
+
+## Screenshots
+
+### Repository Structure
+
+![Repository Structure](screenshots/01_repozytorium.png)
+
+### Test Cases
+
+![Test Cases](screenshots/02_test_case.png)
+
+### Bug Reports
+
+![Bug Reports](screenshots/03_bug_report.png)
+
+### Jira - List View
+
+![Jira List](screenshots/04_jira_lista.png)
+
+### Jira - Kanban Board
+
+![Jira Kanban](screenshots/05_jira_kanban.png)
