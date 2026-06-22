@@ -41,10 +41,6 @@ Raport z wykonanych testów.
 - Praca z GitHub
 - Tworzenie dokumentacji w Markdown
 
-## Autor
-
-Paula Antonowicz-Bielak
-
 ## Screenshots
 
 ### Repository Structure
@@ -82,3 +78,7 @@ Paula Antonowicz-Bielak
 ### Jira - Kanban Board
 
 ![Jira Kanban](./screenshots/jira_kanban_board.png)
+
+## Autor
+
+Paula Antonowicz-Bielak
